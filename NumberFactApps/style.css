@@ -1,0 +1,16 @@
+body{
+    background: black;
+}
+
+.box{
+    width:50%;
+    height: 50vh;
+    background: blue;
+    color: white;
+    margin-left: 25%;
+    padding: 30px;
+}
+
+#output{
+    color:white;
+}
